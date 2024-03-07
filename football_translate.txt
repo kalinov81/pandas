@@ -1,0 +1,40 @@
+Age - Возраст
+Nationality - Национальность
+Club - Клуб
+Value - Стоимость
+Wage - Заработная плата
+Position - Позиция
+Crossing - Перекресток
+Finishing - Завершение
+HeadingAccuracy - Точность головного удара
+ShortPassing - Короткий пас
+Volleys - Волейболы
+Dribbling - Дриблинг
+Curve - Кривая
+FKAccuracy - Точность удара по штрафным
+LongPassing - Длинный пас
+BallControl - Управление мячом
+Acceleration - Ускорение
+SprintSpeed - Скорость спринта
+Agility - Ловкость
+Reactions - Реакции
+Balance - Баланс
+ShotPower - Мощность удара
+Jumping - Прыжки
+Stamina - Выносливость
+Strength - Сила
+LongShots - Дальние удары
+Aggression - Агрессия
+Interceptions - Перехваты
+Positioning - Позиционирование
+Vision - Видение
+Penalties - Пенальти
+Composure - Самообладание
+Marking - Маркировка
+StandingTackle - Очная атака
+SlidingTackle - Скользящая атака
+GKDiving - Вратарские прыжки
+GKHandling - Обработка мяча вратарем
+GKKicking - Вратарский удар
+GKPositioning - Позиционирование вратаря
+GKReflexes - Рефлексы вратаря
